@@ -9,7 +9,7 @@ export default function Home() {
         {/* Hero Section */}
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">
-            Welcome to Drew's Creative World
+            Welcome to Drew&apos;s Creative World
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Exploring life through photography, travel, design, cooking, and creative projects.

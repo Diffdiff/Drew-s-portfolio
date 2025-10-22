@@ -4,7 +4,7 @@ export default function Photography() {
       <div className="container mx-auto px-4 py-16">
         <h1 className="text-4xl font-bold text-gray-900 mb-8">Photography</h1>
         <p className="text-xl text-gray-600 mb-12">
-          Welcome to my photography portfolio. Here you'll find my favorite shots from travels, portraits, and artistic explorations.
+          Welcome to my photography portfolio. Here you&apos;ll find my favorite shots from travels, portraits, and artistic explorations.
         </p>
         
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
